@@ -96,6 +96,18 @@
             <?php } ?>
         </div>
     </main>
+    <footer class="py-3">
+        <div class="container_custom d-flex justify-content-between">
+        <div class="footer-left text-secondary">
+            <small>Google &#x2022; Tutto su google &#x2022; Privacy &#x2022; Termini</small>
+        </div>
+        <div class="footer-right">
+            <select name="" id="">
+                <option value="">Italiano</option>
+            </select>
+        </div>
+        </div>
+    </footer>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
 </body>
 </html>
